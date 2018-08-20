@@ -1,0 +1,30 @@
+* {
+  font-family: Verdana;
+  text-align: center;
+  color: White;
+  background-color: black;
+}
+
+p {
+  font-size: 21px;
+  color: Gray;
+}
+
+.subhead {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.download {
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+#title {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+#caption {
+  text-align: right;
+}
